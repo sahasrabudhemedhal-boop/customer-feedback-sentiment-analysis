@@ -110,6 +110,9 @@ The analysis explores sentiment distribution, customer ratings, and differences 
 The original dataset contains a larger proportion of positive reviews than negative or neutral reviews. Higher product ratings are generally associated with positive sentiment, while lower ratings are more frequently associated with negative sentiment.
 
 See the dashboard for detailed visualizations and the results obtained after preprocessing.
+## Dashboard Preview
+
+![Customer Sentiment Dashboard](screenshots/dashboard.png)
 
 ## Limitations
 
