@@ -112,7 +112,9 @@ The original dataset contains a larger proportion of positive reviews than negat
 See the dashboard for detailed visualizations and the results obtained after preprocessing.
 ## Dashboard Preview
 
-![Customer Sentiment Dashboard](screenshots/dashboard.png)
+![Customer Sentiment Dashboard - View 1](screenshots/dashboard1.png)
+
+![Customer Sentiment Dashboard - View 2](screenshots/dashboard2.png)
 
 ## Limitations
 
